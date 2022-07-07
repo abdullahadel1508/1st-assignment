@@ -61,12 +61,12 @@ h1 {
     margin-bottom: 30px;
     text-align: center;
     font-size: 15px;
-    border-bottom: 2px solid lightgray;
+    border-bottom: 2px solid rgb(206, 15, 15);
 }
 
 .container div {
     width: 280px;
-    height: 400px;
+    height: 500px;
     padding: 20px;
     margin: 10px;
     border-radius: 5px;
@@ -85,12 +85,8 @@ h1 {
     background-color: rgba(255, 244, 214, 1);
 }
 
-#global-part .container {
-    height: 200px;
-}
-
 form {
-    background-color: darkseagreen;
+    background-color: grey;
     margin: 20px 250px;
     padding: 20px;
 }
@@ -132,7 +128,7 @@ footer {
     height: 170px;
     width: 100%;
     text-align: center;
-    background-color: black;
+    background-color: darkslategray;
     padding-top: 40px;
 }
 
