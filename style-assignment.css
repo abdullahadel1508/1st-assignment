@@ -61,7 +61,7 @@ h1 {
     margin-bottom: 30px;
     text-align: center;
     font-size: 15px;
-    border-bottom: 2px solid rgb(206, 15, 15);
+    border-bottom: 2px solid tomato;
 }
 
 .container div {
@@ -87,8 +87,9 @@ h1 {
 
 form {
     background-color: grey;
-    margin: 20px 250px;
+    margin: 20px 250px 80px;
     padding: 20px;
+
 }
 
 input,
